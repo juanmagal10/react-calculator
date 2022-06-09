@@ -1,0 +1,18 @@
+
+.titulo{
+    color:#091676;
+    font-size:  50px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.parrafo{
+    margin: 10px;
+}
+
+.subtitulo{
+    color:#091676;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px 10px 15px 10px;
+}

@@ -1,0 +1,27 @@
+
+.contenedor{
+    height: 100vh;
+    padding: 0px 10px 10px 10px;
+    background-color: #fff;
+    font-family: lato, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-calculadora {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #26c;
+    border-radius: 20px;
+    border: 5px solid #1b2b62;
+}
+
+.fila {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

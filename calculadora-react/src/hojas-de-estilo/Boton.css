@@ -6,7 +6,7 @@
     align-items: center;
     font-weight: bold;
     font-size: 38px;
-    background-color: #3b3b62;
+    background-color: #1b2b62;
     color: #fff;
     border-radius: 25px;
     border: 2px solid #fff;
@@ -15,12 +15,12 @@
     user-select: none;
 }
 .boton-contenedor:hover{
-    background-color: #5a01a7;
+    background-color: #051a41;
 }
 
 .operador{
-    background-color: #cc5634;
+    background-color: #cc4624;
 }
 .operador:hover{
-    background-color: #33dd88;
+    background-color: #aa3413;
 }
